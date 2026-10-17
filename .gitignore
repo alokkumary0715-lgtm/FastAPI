@@ -1,0 +1,8 @@
+# Configuration and Credentials
+config.py
+.config/
+.env
+
+# Python / Environment
+venv/
+__pycache__/
